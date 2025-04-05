@@ -10,4 +10,4 @@ SpringbootDev practice&amp;projects
 1. GET 요청 처리
 2. Model로 데이터 전달
 3. POST 요청 + 폼 처리
-DTO 사용하여Userfrom으로 POST요청 처리하기
+4. DTO 사용하여Userfrom으로 POST요청 처리하기
